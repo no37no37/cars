@@ -75,4 +75,4 @@ Cars['MPG_City'] = Cars['MPG_City'].apply(lambda x: x + 3)
 
 ## Conclusion
 
-This repository serves as a comprehensive guide to the Cars Data Analysis project, providing step-by-step insights into data loading, cleaning, exploratory analysis, filtering, removal of unwanted records, and column transformation. The documented steps ensure a clear understanding of the dataset and its preparation for further analysis or machine learning tasks.
+This repository serves as a comprehensive guide to the Cars Data Analysis project, providing step-by-step insights into data loading, cleaning, exploratory analysis, filtering, removal of unwanted records, and column transformation. 
